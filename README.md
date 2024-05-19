@@ -1,9 +1,10 @@
 Olá, seja bem vindo ao meu repositório!
 
 Um pouco sobre mim:
+- Possuo 3 anos de experiência na área de dados
 - Formado em Engenharia Mecânica pela UNIFEI
 - MBA em Data Science e Analytics pela USP
-- Atualmente trabalho como Analista de dados no setor de varejo
+- Atuo como analista de dados em uma squad no e-commerce de uma empresa de suplementos alimentares
 - Como me encontrar: https://www.linkedin.com/in/ruan-carlos-lovatti-sardi-b135ba190/
 
 <!---
